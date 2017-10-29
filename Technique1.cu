@@ -1,6 +1,7 @@
 //Technique 1
 //Count array act as a bucket
 //frequent-items-using-CUDA
+
 #include<iostream>
 #include<cuda.h>
 #include<cuda_runtime.h>
